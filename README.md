@@ -1,4 +1,3 @@
-# saas-executive-dashboard
 # SaaS Executive Dashboard
 
 ## Overview
